@@ -7,8 +7,10 @@ Delete tasks from the list by tapping on a delete button.
 Clean and easy-to-use interface.
 Built using React hooks (useState) for state management.
 Optimized for both Android and iOS.
+
 Screenshots
-(Screenshots can be added here to demonstrate the app's appearance)
+![image alt](https://github.com/krishnamidathana/ToDoApp/blob/main/ToDoImg.jpg?raw=true)
+
 
 Installation
 Follow these steps to set up and run the app locally on your device or emulator.
