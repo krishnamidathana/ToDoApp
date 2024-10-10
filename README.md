@@ -9,6 +9,7 @@ Built using React hooks (useState) for state management.
 Optimized for both Android and iOS.
 
 Screenshots
+
 ![image alt](https://github.com/krishnamidathana/ToDoApp/blob/main/ToDoImg.jpg?raw=true)
 
 
